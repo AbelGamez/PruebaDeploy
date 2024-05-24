@@ -1,0 +1,19 @@
+{
+    "productTitle":"Añadir producto",
+    "categoryLabel":"Categoria :",
+    "productsLabel":"Productos :",
+    "skinsLabel":"Skins :",
+    "unitsLabel":"Unidades :",
+    "unitPriceLabel":"Precio Unidad :",
+    "floatLabel":"Float",
+    "buttonLable":"Añadir producto",
+
+    "NavBarPistol":"Pistola",
+    "NavBarRifles":"Rifles",
+    "NavBarHeavys":"Pesado",
+    "NavBarSMGs":"Subfusiles",
+    "NavBarGloves":"Guantes",
+    "NavBarKnives":"Cuchillos",
+    "acme":"ACMEES",
+    "contacto":"Contacto"
+}

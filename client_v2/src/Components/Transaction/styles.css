@@ -1,0 +1,28 @@
+.transactions-container {
+    display: flex;
+    flex-direction: column;
+    gap: 16px;
+    padding: 20px;
+  }
+  
+  .payment-card {
+    display: flex;
+    flex-direction: column;
+    padding: 16px;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    box-shadow: 2px 2px 12px rgba(0, 0, 0, 0.1);
+    position: relative; /* Make it relative to position the total price */
+  }
+  
+  .purchase-date {
+    color: grey; /* Set the purchase date text color to grey */
+  }
+  
+  .total-price {
+    position: absolute;
+    top: 16px;
+    right: 16px; /* Position the total price to the right of the card */
+    font-weight: bold;
+  }
+  

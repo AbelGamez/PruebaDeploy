@@ -1,0 +1,19 @@
+{
+    "productTitle":"Add Product",
+    "categoryLabel":"Category :",
+    "productsLabel":"Products :",
+    "skinsLabel":"Skins :",
+    "unitsLabel":"Units :",
+    "unitPriceLabel":"Unit Price :",
+    "floatLabel":"Float",
+    "buttonLable":"Add Product",
+
+    "NavBarPistol":"Pistol",
+    "NavBarRifles":"Rifles",
+    "NavBarHeavys":"Heavys",
+    "NavBarSMGs":"SMGs",
+    "NavBarGloves":"Gloves",
+    "NavBarKnives":"Knives",
+    "acme":"ACMEen",
+    "contacto":"Contact"
+}
